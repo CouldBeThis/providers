@@ -9,9 +9,6 @@ Please note that we have no formal relationship with any of these providers and 
 You can leave comments on your experiences with the providers or ask questions in our [hosting category on the forums.](https://help.nextcloud.com/c/hosting) Feedback is VERY much welcomed as it helps others to choose their ideal provider!
 
 
-
-
-
 | Logo          | Languages     | Free plan?    | Description  |
 | ------------- | ------------- | ------------- |------------- |
 |<a href="https://www.alfacloud.biz"> ![](https://raw.githubusercontent.com/alfabg/providers/master/logos/logo_transparent.png)</a> | :gb: :bulgaria: | ✔️ | [alfacloud.biz](https://www.alfacloud.biz) AlfaCloud offers everything you need for GDPR compliance. Using the nextcloud simplifies compliance and reduces business risk and costs. |
